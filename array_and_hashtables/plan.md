@@ -13,6 +13,8 @@ String compression (Problem 1.6 in "Cracking the Coding Interview")
 
 ## Exercise 2: 
 
-Zero matrix (Problem 1.8 in CCI). 
+Zero matrix (Problem 1.8 in CCI).   
+
+Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to 0. 
 
 
